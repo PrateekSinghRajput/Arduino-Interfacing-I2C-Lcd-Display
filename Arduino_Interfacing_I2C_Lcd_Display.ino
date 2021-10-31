@@ -13,6 +13,8 @@ void setup()
   lcd.print("  Welcome To");
   lcd.setCursor(0, 1);
   lcd.print("JustDoElectronic");
+  lcd.clear();
+  
 }
 void loop()
 {
